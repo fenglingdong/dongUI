@@ -1,3 +1,4 @@
+import { withInstall } from "@dong-ui/utils";
 import Button from "./button.vue";
 
-export default Button;
+export default withInstall(Button);
