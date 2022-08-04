@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["DongUI","vite","vue3","typescript"],
+  "keywords": [
+    "DongUI",
+    "vite",
+    "vue3",
+    "typescript"
+  ],
   "author": "fenglingdong",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.2",
+    "typescript": "^4.7.4",
+    "vue": "^3.2.36"
+  }
 }
