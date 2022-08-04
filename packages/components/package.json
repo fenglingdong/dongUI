@@ -1,15 +1,15 @@
 {
-  "name": "examples",
+  "name": "dong-ui",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "dev": "vite"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dong-ui": "workspace:^1.0.0"
+    "@dong-ui/utils": "workspace:^1.0.0"
   }
 }
